@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sme322-ui
-- 👀 I’m interested in hiking and programming
-- 🌱 I’m currently learning 
+- 👀 I’m interested in hiking and programming.
+- 🌱 I’m currently learning firebase.
 
 
 <!---
